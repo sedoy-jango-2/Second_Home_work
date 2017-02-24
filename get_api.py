@@ -4,7 +4,7 @@ def getApiFromSj(town, keywords):
     keywords = keywords
     url = 'https://api.superjob.ru/2.0/vacancies'
     params = {
-        'X-Api-App-Id': 'v1.r07707a5ac3efb756b9477e2635cd5d8818309448083148a3d89f8e4135d5b61d543202f1.51f906bb1bd4e3adf4d16f96b45fb4f2d57dbf3f'
+        'X-Api-App-Id': 'ключ api'
     }
     data = {
         'town': town,
