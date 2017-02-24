@@ -3,15 +3,15 @@
 Вся домашка разбита на 7 файлов.
 ***
 3 основных файла выполняющих задания
-* [get_jobs_data.py](https://github.com/sedoy-jango-2/Second_Home_work/blob/master/get_jobs_data.py)
-* [relowed_data_jobs.py](https://github.com/sedoy-jango-2/Second_Home_work/blob/master/relowed_data_jobs.py)
-* [get_data_lenguages.py](https://github.com/sedoy-jango-2/Second_Home_work/blob/master/get_data_lenguages.py)
+* [get_jobs_data.py] (https://github.com/sedoy-jango-2/Second_Home_work/blob/master/get_jobs_data.py)
+* [relowed_data_jobs.py] (https://github.com/sedoy-jango-2/Second_Home_work/blob/master/relowed_data_jobs.py)
+* [get_data_lenguages.py] (https://github.com/sedoy-jango-2/Second_Home_work/blob/master/get_data_lenguages.py)
 ***
 и 4 вспомогательных файла содержащих функции
-* [get_api.py](https://github.com/sedoy-jango-2/Second_Home_work/blob/master/get_api.py)
-* [help_for_get_jobs.py](https://github.com/sedoy-jango-2/Second_Home_work/blob/master/help_for_get_jobs.py)
-* [help_for_lenguages.py](https://github.com/sedoy-jango-2/Second_Home_work/blob/master/help_for_lenguages.py)
-* [random_colors.py](https://github.com/sedoy-jango-2/Second_Home_work/blob/master/random_colors.py)
+* [get_api.py] (https://github.com/sedoy-jango-2/Second_Home_work/blob/master/get_api.py)
+* [help_for_get_jobs.py] (https://github.com/sedoy-jango-2/Second_Home_work/blob/master/help_for_get_jobs.py)
+* [help_for_lenguages.py] (https://github.com/sedoy-jango-2/Second_Home_work/blob/master/help_for_lenguages.py)
+* [random_colors.py] (https://github.com/sedoy-jango-2/Second_Home_work/blob/master/random_colors.py)
 ***
 ### h3 заголовок третьего уровня
 ## h2 Описание действий основных файлов
