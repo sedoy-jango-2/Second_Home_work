@@ -8,12 +8,12 @@
 * [get_data_lenguages.py](https://github.com/sedoy-jango-2/Second_Home_work/blob/master/get_data_lenguages.py)
 ***
 и 4 вспомогательных файла содержащих функции
-***
 * [get_api.py](https://github.com/sedoy-jango-2/Second_Home_work/blob/master/get_api.py)
 * [help_for_get_jobs.py](https://github.com/sedoy-jango-2/Second_Home_work/blob/master/help_for_get_jobs.py)
 * [help_for_lenguages.py](https://github.com/sedoy-jango-2/Second_Home_work/blob/master/help_for_lenguages.py)
 * [random_colors.py](https://github.com/sedoy-jango-2/Second_Home_work/blob/master/random_colors.py)
 ***
+### h3 заголовок третьего уровня
 ## h2 Описание действий основных файлов
 ***
 ### h3 get_jobs_data.py
