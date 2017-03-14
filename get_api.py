@@ -1,10 +1,10 @@
 import requests
 
-def getApiFromSj(town, keywords):
+def get_jobs_from_sj(town, keywords, api_key):
     keywords = keywords
     url = 'https://api.superjob.ru/2.0/vacancies'
     params = {
-        'X-Api-App-Id': 'ключ api'
+        'X-Api-App-Id': api_key
     }
     data = {
         'town': town,
@@ -15,7 +15,8 @@ def getApiFromSj(town, keywords):
         'count': 100,
     }
     vacantion = []
-    for i in range(5):
+    count_of_inquiry = 5
+    for i in range(count_of_inquiry):
         jobsData = requests.get(url, headers=params, params=data)
         data['page'] += 1
         vacantion.append(jobsData.json())
